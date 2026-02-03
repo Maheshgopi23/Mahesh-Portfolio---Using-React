@@ -5,6 +5,7 @@ import Sec2 from "./sec2/Sec2.jsx";
 import Sec3 from "./sec3/Sec3.jsx";
 import Sec4 from "./sec4/Sec4.jsx";
 import Sec5 from "./sec5/Sec5.jsx";
+import logo from "./assets/logo.png";
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
         <div className="container-fluid px-4">
 
           <div className="avatar me-3">
-            <img src="/logo.png" alt="Logo" />
+            <img src={logo} alt="Logo" />
           </div>
 
           <div className="navbar-brand logo" href="#">

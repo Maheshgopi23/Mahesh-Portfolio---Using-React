@@ -4,6 +4,7 @@ import { useState } from "react";
 import Bms from "../assets/bms.jpg";
 import Slt from "../assets/SignLangTranslation.jpg";
 import Calc from "../assets/Calculator.png";
+import Ecom from "../assets/Ecommerce.jpg";
 
 const projects = [
   {
@@ -15,7 +16,7 @@ const projects = [
   },
   {
     title: "E-commerce Website",
-    image: "/logo.png",
+    image: Ecom,
     desc: "Full-stack e-commerce website with cart, checkout, Razorpay integration, and admin dashboard using PHP & MySQL.",
     github: "",
     liveDemo: ""
