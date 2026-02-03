@@ -1,0 +1,100 @@
+.education {
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.education h2 {
+  color: aqua;
+}
+
+.education .container {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.edu-icon {
+  font-size: 32px;
+  color: white;
+  margin-right: 10px;
+}
+
+
+.section-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.edu {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.edu .edu1, .edu .edu2 {
+  box-shadow: 10px 10px 10px aqua;
+  display: flex;
+  flex-direction: column;
+}
+
+.edu1 :nth-child(3), .edu2 :nth-child(3) {
+  color: white;
+  margin-top: 10px;
+}
+
+.edu1 :last-child, .edu2 :last-child {
+  color: aqua;
+  margin-top: 10px;
+}
+
+.edu .edu1:hover{
+  transform: scale(1.1);
+  transition: 0.4s ease;
+  border-color: aliceblue;
+}
+
+.edu .edu2:hover{
+  transform: scale(1.1);
+  transition: 0.4s ease;
+  border-color: aliceblue;
+}
+.edu h4{
+  color: white;
+}
+
+
+span{
+  font-size: 16px;
+  color: aqua;
+}
+
+#boxes{
+  justify-content: center;
+  border: 2px solid aqua;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.edu a{
+  text-decoration: none;
+}
+
+@media(max-width: 768px)
+{
+  .edu{
+    flex-direction: column;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 60px;
+    align-items: center;
+  }
+}
