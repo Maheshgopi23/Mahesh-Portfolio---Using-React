@@ -17,7 +17,7 @@ function Sec2() {
           </a>
           <a className="edu2" id="boxes" href="#"> 
             <h4>Diploma</h4>
-            <span className="specialization">Electronnica And Communication Engineering</span>
+            <span className="specialization">Electronics And Communication Engineering</span>
             <span>Sasi Institue Of Technology And Engineering Tadepalligudem</span>
             <span className="date">2020 - 2023</span>
           </a>
