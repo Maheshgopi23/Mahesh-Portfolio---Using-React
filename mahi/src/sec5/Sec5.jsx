@@ -76,14 +76,18 @@ function Sec5(){
                             <i className='bx bxl-linkedin'></i>
                             <span>LinkedIn</span>
                         </a>
-                        <a href="mailto:maheshgopi023@gmail.com">
-                            <i className="bx bx-envelope"></i>
-                            <span>maheshgopi023@gmail.com</span>
+                        <a href="https://www.instagram.com/_mr._.mahi.__?igsh=azhndmNpMzFhanQw">
+                            <i className="bx bxl-instagram"></i>
+                            <span>Instagram</span>
                         </a>
                         <a href="tel:+91 8555823649">
                             <i className="bx bx-phone"></i>
                             <span>+91 8555823649</span>
                         </a>
+                        <a href="mailto:maheshgopi023@gmail.com">
+                            <i className="bx bx-envelope"></i>
+                            <span>maheshgopi023@gmail.com</span>
+                        </a>        
                     </div>
                 </div> 
             </div>

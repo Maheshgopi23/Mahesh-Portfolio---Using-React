@@ -1,5 +1,5 @@
 import "./Sec1.css";
-import Resume from "../assets/Mahi_Resume.pdf";
+import Resume from "../assets/MahiResume.pdf";
 import MaheshImage from "../assets/MaheshGopi.jpg";
 
 function Sec1() {

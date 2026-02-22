@@ -98,7 +98,7 @@ label{
 .contact-details .contact-title {
     font-weight: bold;
     color: aliceblue;
-    margin-top: -80px;
+    margin-top: -40px;
 }
 
 .contact-links{
@@ -106,7 +106,7 @@ label{
     flex-direction: column;
     gap: 20px;
     justify-content: center;
-    align-items: center;
+
     margin-top: 70px;
 }
 

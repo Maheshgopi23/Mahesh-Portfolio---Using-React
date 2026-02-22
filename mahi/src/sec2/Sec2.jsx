@@ -13,7 +13,7 @@ function Sec2() {
             <h4>B.Tech</h4>
             <span className="specialization">Artificial Intelligence And Data Science</span>
             <span>SRKR Engineering College Bhimavaram</span>
-            <span className="date">2026 - 2023</span>
+            <span className="date">2023 - 2026</span>
           </a>
           <a className="edu2" id="boxes" href="#"> 
             <h4>Diploma</h4>

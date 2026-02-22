@@ -11,7 +11,7 @@ const projects = [
     title: "Banking Management System",
     image: Bms,
     desc: "GUI-based Banking Management System using Java, Swing, JDBC, and MySQL with secure account handling and transactions.",
-    github: "",
+    github: "https://github.com/Maheshgopi23/BankManagementSystem",
     liveDemo: ""
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     image: Ecom,
     desc: "Full-stack e-commerce website with cart, checkout, Razorpay integration, and admin dashboard using PHP & MySQL.",
     github: "",
-    liveDemo: ""
+    liveDemo: "https://sripadmajafancy.infinityfree.me/"
   },
   {
     title: "Sign Language Translation",
