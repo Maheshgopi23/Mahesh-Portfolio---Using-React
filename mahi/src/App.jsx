@@ -33,6 +33,9 @@ function App() {
           <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul className="navbar-nav menu-bar gap-3">
               <li className="nav-item">
+                <a className="nav-link text-white" href="https://drive.google.com/file/d/19y_SSKPpbmMw1oYOuHsj3lCx3O-5n6zF/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+              </li>
+              <li className="nav-item">
                 <a className="nav-link text-white" href="#education">Education</a>
               </li>
               <li className="nav-item">
